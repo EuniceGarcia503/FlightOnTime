@@ -1,16 +1,13 @@
-# ✈️ FlightOnTime.
-
-💼 **Proyecto 3: Predicción de Retrasos de Vuelos ONE.**  
-📊 **Ciencia de Datos.**  
-🏁 **Hackathon ONE II — H12-25-L — Equipo 75.** 
+![Logo](https://raw.githubusercontent.com/EuniceGarcia503/FlightOnTime/refs/heads/main/Imagenes/banner_readme_colab.png)
+---
 
 ## Estado del proyecto.
 🏗️ En construcción. 
 
 ## Descripción.
-🧠 Este proyecto busca aplicar modelos de *Machine Learning* y algoritmos de **clasificación binaria**, basada en datos históricos de vuelos.
+🤖 Este proyecto busca aplicar modelos de *Machine Learning* y algoritmos de **clasificación binaria**, basada en datos históricos de vuelos.
 
-🤖 Su objetivo principal será el **estimar el riesgo de retraso** y determinar si un vuelo **despegará a tiempo o no**.
+🎯 Su objetivo principal será el **estimar el riesgo de retraso** y determinar si un vuelo **despegará a tiempo o no**.
 
 ### 🧱 Inputs a utilizar:
 - Aerolínea.
