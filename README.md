@@ -1,4 +1,4 @@
-![Logo](https://raw.githubusercontent.com/EuniceGarcia503/FlightOnTime/refs/heads/main/Imagenes/banner_readme_colab.png)
+![Logo](https://raw.githubusercontent.com/EuniceGarcia503/FlightOnTime/refs/heads/main/Imagenes/banner_readme_DS.png)
 ---
 
 ## Estado del proyecto.
@@ -9,14 +9,14 @@
 
 🎯 Su objetivo principal será el **estimar el riesgo de retraso** y determinar si un vuelo **despegará a tiempo o no**.
 
-### 🧱 Inputs a utilizar:
+### Inputs a utilizar:
 - Aerolínea.
 - Aeropuerto de origen.  
 - Aeropuerto de destino.  
 - Fecha de partida.  
 - Distancia del vuelo. 
 
-### 🧱 Outputs deseados:
+### Outputs deseados:
 - Predicción del estado del vuelo (a tiempo / retrasado). 
 - Probabilidad asociada a la predicción.
 
