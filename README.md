@@ -5,7 +5,7 @@
 🏗️ En construcción. 
 
 ## Descripción.
-🤖 Este proyecto busca aplicar modelos de *Machine Learning* y algoritmos de **clasificación binaria**, basada en datos históricos de vuelos.
+🤖 Este proyecto busca aplicar modelos de *Machine Learning* y algoritmos de **clasificación binaria**, basados en datos históricos de vuelos.
 
 🎯 Su objetivo principal será el **estimar el riesgo de retraso** y determinar si un vuelo **despegará a tiempo o no**.
 
@@ -16,6 +16,12 @@
 - Fecha de partida.  
 - Distancia del vuelo. 
 
-### 🧱 Output deseados:
+### 🧱 Outputs deseados:
 - Predicción del estado del vuelo (a tiempo / retrasado). 
 - Probabilidad asociada a la predicción.
+
+## Dataset.
+📌 Información sobre la fuente de datos y su estructura será incorporada en esta sección.
+
+## Uso de los Notebooks.
+📌 En esta sección se documentará el flujo de trabajo y el orden recomendado de ejecución de los notebooks.
