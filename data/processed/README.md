@@ -1,4 +1,7 @@
 # Datos procesados a partir de data/raw.
+🟢 Definición del problema de negocio.
+
+🟢 Definición del problema de machine learning.
 
 🟢 Datos limpios.
 
